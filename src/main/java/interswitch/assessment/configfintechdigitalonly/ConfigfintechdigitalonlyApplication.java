@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
+//this is an annotation that is use to enable config server
 @EnableConfigServer
 public class ConfigfintechdigitalonlyApplication {
 
